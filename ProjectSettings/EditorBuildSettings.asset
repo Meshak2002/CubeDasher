@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Assets/Scenes/Scenes/LoadingScreen.unity
+    guid: 9211eed1eeab8384cb380502c55a277e
+  - enabled: 1
+    path: Assets/Assets/Scenes/Scenes/MainMenu.unity
+    guid: 6c6e90d7f8734234d85ba83c710093a7
+  - enabled: 1
+    path: Assets/Assets/Scenes/Scenes/Game.unity
+    guid: 4035e5f5b1b32dc49a5c4c79c0500abe
+  - enabled: 1
+    path: Assets/Assets/Scenes/Scenes/CutScene.unity
+    guid: 89c40bd5325425d469d365dad27c4540
+  - enabled: 1
+    path: Assets/Assets/Scenes/Scenes/Leaderboard.unity
+    guid: 341f8b05d69674140977571e936c46d1
+  - enabled: 1
+    path: Assets/Assets/Scenes/Scenes/Carrer.unity
+    guid: e3f944f7a83b80a459674b328761a513
+  - enabled: 1
+    path: Assets/Agora-RTC-Plugin/API-Example/Examples/Basic/JoinChannelAudio/BasicAudioCallScene.unity
+    guid: 1af6c3e08db844534ad959cdf0127444
+  m_configObjects: {}

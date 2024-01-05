@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b544392b6b0cdd044b380b97057839af
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - shopManager: {instanceID: 0}
+  - redCube: {instanceID: 0}
+  - purpleCube: {instanceID: 0}
+  - greenCube: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

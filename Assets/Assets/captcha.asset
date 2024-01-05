@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 871d41a9e55b6d14fb6e5f948a41e8a3, type: 3}
+  m_Name: captcha
+  m_EditorClassIdentifier: 
+  captchas:
+  - cimg: {fileID: 21300000, guid: 791702e537349c24eba92de9712ee02b, type: 3}
+    value: 8ne4g
+  - cimg: {fileID: 21300000, guid: 2efa36fe3cf4c0b4d85b2367e8cc80e5, type: 3}
+    value: 8npe3
+  - cimg: {fileID: 21300000, guid: 4f71e7078195bbf4aa91024e16dc5c32, type: 3}
+    value: 
+  - cimg: {fileID: 21300000, guid: 0d7e1614a408c434f97c9915ba9224bf, type: 3}
+    value: 
+  - cimg: {fileID: 21300000, guid: 1e2fdf7e460df1847a6e45e0d826ffaa, type: 3}
+    value: 
+  - cimg: {fileID: 21300000, guid: 3e7810e01953af04081f45a8af473b9e, type: 3}
+    value: 
+  - cimg: {fileID: 21300000, guid: af758b411b2dc3d4e9e3743b9a2ed3ba, type: 3}
+    value: 
+  - cimg: {fileID: 21300000, guid: d60a27df37a90cd4292390ee6de3d97d, type: 3}
+    value: 
+  - cimg: {fileID: 21300000, guid: ea6e2261310aa984abe948f8ef2d8289, type: 3}
+    value: 
+  - cimg: {fileID: 21300000, guid: 8e691747e5132e649809df62cb89aea4, type: 3}
+    value: 
+  - cimg: {fileID: 21300000, guid: 14b1de8d11d0b824c87122cae37e6b6a, type: 3}
+    value: 
+  - cimg: {fileID: 21300000, guid: acc24999158b1cd438ab1f807bb8fd0b, type: 3}
+    value: 
+  - cimg: {fileID: 21300000, guid: 08887e52648a7844496a5a9e35881e4a, type: 3}
+    value: 
+  - cimg: {fileID: 21300000, guid: 15cbd732bbc11984c8e718d5dc6ece47, type: 3}
+    value: 
+  - cimg: {fileID: 21300000, guid: 9386e5b58dd6f924f9d41bd7bffd47e8, type: 3}
+    value: 
+  - cimg: {fileID: 21300000, guid: ff32c844ffab57a4394e61f45e892a13, type: 3}
+    value: 
+  - cimg: {fileID: 21300000, guid: 70ff4f82079d97040a59ab252bcbb8d1, type: 3}
+    value: 
+  - cimg: {fileID: 21300000, guid: 0d2ed42938728f44981e77210b04d890, type: 3}
+    value: 
+  - cimg: {fileID: 21300000, guid: 82d3ab9f7a5ea13499592637c7be21f8, type: 3}
+    value: 
+  - cimg: {fileID: 21300000, guid: b19b72b2074a844439e734b01ee8b062, type: 3}
+    value: 
+  - cimg: {fileID: 21300000, guid: 246312ce8e4914a4e95cd72cc979ee69, type: 3}
+    value: 
